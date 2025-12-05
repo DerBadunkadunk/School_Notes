@@ -1,6 +1,4 @@
 ````md
-# SQL Notes – Multi-Table Queries, Advanced Joins, Many-to-Many, and RESTful APIs
-
 ## 0. Relational Basics (Quick Context)
 
 - **Table** – like a spreadsheet. Rows = records, columns = attributes.
